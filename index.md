@@ -16,3 +16,5 @@ x<sup>2</sup> =
 plus
 
 pluuus
+
+opmaak was niet meegenomen
