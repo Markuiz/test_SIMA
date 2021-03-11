@@ -12,3 +12,5 @@ $\frac{x}{y}$
 
 
 x<sup>2</sup> = 
+
+plus
