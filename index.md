@@ -18,3 +18,6 @@ plus
 pluuus
 
 opmaak was niet meegenomen
+
+![Pic](./test.png)
+
