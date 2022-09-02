@@ -1,1 +1,0 @@
-ProteinID	Sequence	ID	Prediction	SP(Sec/SPI)	TAT(Tat/SPI)	LIPO(Sec/SPII)	OTHER	CS_Position	ding	ID	localisation	score	margin	cleavage	+2_position
