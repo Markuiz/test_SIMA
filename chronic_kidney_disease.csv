@@ -1,4 +1,4 @@
-patient_id,age (years),Blood pressure (mm/Hg),Specific gravity,Albumine,Sugar,Red blood cells,Pus in cells,Pus cell clumps,Bacteria,[Glucose] (mg/dl),[Blood urea] (mg/dl),[Creatine] (mg/dl),[Na] (mEq/L),[K] (mEq/L),Hemoglobine (g),Packed cell volume,Whit blood cell count (cells/µl),Red blood cell count (millions/µl),Hypertension,Diabetes mellitus,Coronary Artery Disease,Appetite,Pedal edema,Anemia,Classification
+patient_id,Age (years),Blood pressure (mm/Hg),Specific gravity,Albumine,Sugar,Red blood cells,Pus in cells,Pus cell clumps,Bacteria,[Glucose] (mg/dl),[Blood urea] (mg/dl),[Creatine] (mg/dl),[Na] (mEq/L),[K] (mEq/L),Hemoglobine (g),Packed cell volume,Whit blood cell count (cells/µl),Red blood cell count (millions/µl),Hypertension,Diabetes mellitus,Coronary Artery Disease,Appetite,Pedal edema,Anemia,Classification
 157,62.0,70.0,1.025,3.0,0.0,normal,abnormal,notpresent,notpresent,122.0,42.0,1.7,136.0,4.7,12.6,39,7900,3.9,yes,yes,no,good,no,no,ckd
 109,54.0,70.0,,,,,,notpresent,notpresent,233.0,50.1,1.9,,,11.7,,,,no,yes,no,good,no,no,ckd
 17,47.0,80.0,,,,,,notpresent,notpresent,114.0,87.0,5.2,139.0,3.7,12.1,,,,yes,no,no,poor,no,no,ckd
